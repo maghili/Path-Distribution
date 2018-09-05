@@ -39,4 +39,4 @@ clf = LogisticRegression(multi_class = 'ovr')
 clf.fit(X_train, y_train)
 print clf.score(X_test, y_test)
 ```
-In which case the accuracy of `100%` is obtained. The more detailed code is presented <a href"https://github.com/maghili/Path-Distribution/blob/master/CausalSets.py.ipynb">here<a>.
+In which case the accuracy of `100%` is obtained. The more detailed code is presented <a href="https://github.com/maghili/Path-Distribution/blob/master/CausalSets.py.ipynb">here<a>.
